@@ -2,6 +2,7 @@
 
 :root {
   --main-green: #26805a;
+  --active-color: #0b5e3d;
   --main-darkblue: #172b4d;
   --nav-darkblue: #344563;
   --gray-border: #c1c7d0;
@@ -189,7 +190,7 @@ hr {
 }
 
 .primary-btn:active {
-  background-color: #008552;
+  background-color: var(--active-color);
   transform: translateY(2px);
 }
 
