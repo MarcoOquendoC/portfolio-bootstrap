@@ -181,6 +181,10 @@ hr {
   transform: translateY(2px);
 }
 
+.align-self-start {
+  align-self: flex-start;
+}
+
 .about-container {
   margin-top: 1rem;
 }
@@ -312,25 +316,6 @@ hr {
 #msg {
   height: 114px;
   border: 1px solid #60c095;
-}
-
-.form-btn {
-  background-color: #36b37f;
-  border-radius: 4px;
-  padding: 0.8rem;
-  margin-bottom: 1rem;
-  color: #fff;
-}
-
-.form-btn:hover {
-  cursor: pointer;
-  background: #36b37f;
-  box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
-}
-
-.form-btn:active {
-  background-color: #008552;
-  transform: translateY(2px);
 }
 
 .developer-email {
