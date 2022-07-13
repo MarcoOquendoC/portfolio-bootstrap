@@ -153,8 +153,8 @@ hr {
 .work-card-content .tags li {
   border-radius: 0.4rem;
   background-color: #ebf0ee;
-  padding: 0.6rem;
-  font-size: 0.7rem;
+  padding: 1rem;
+  font-size: 1rem;
   font-weight: 600;
   color: #3a4a42;
   text-align: center;
@@ -163,11 +163,11 @@ hr {
 .primary-btn {
   background-color: #36b37f;
   border-radius: 4px;
-  padding: 0.8rem;
+  padding: 1rem;
   align-self: center;
   margin-bottom: 0.5rem;
   color: #fff;
-  font-size: 14px;
+  font-size: 1rem;
   font-weight: 600;
 }
 
@@ -258,8 +258,8 @@ hr {
 .about-card .tags li {
   border-radius: 0.4rem;
   background-color: #fff;
-  padding: 0.6rem;
-  font-size: 0.7rem;
+  padding: 1rem;
+  font-size: 1rem;
   font-weight: 600;
   color: #36b37e;
   text-align: center;
