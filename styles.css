@@ -239,10 +239,10 @@ hr {
   background-color: #ebf0ee;
 }
 
-.about-card h2 {
+.about-card h3 {
   padding-top: 1rem;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 2rem;
   text-align: center;
   color: #344563;
 }
